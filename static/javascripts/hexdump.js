@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Hexdump.js 0.1.1
 // (c) 2011 Dustin Willis Webber
 // Hexdump is freely distributable under the MIT license.

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 var Stats = Backbone.Model.extend({
   url: "/stats",
   defaults: {

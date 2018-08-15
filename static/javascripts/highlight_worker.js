@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 onmessage = function(event) {
   importScripts("/javascripts/highlight.js");
   var result = self.hljs.highlightAuto(event.data);

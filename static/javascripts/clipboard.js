@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 /*!
  * clipboard.js v2.0.1
  * https://zenorocha.github.io/clipboard.js
